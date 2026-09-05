@@ -1,0 +1,4 @@
+StudentType,Formality,PreferredColour,ClothingType,Material,Footwear
+School Student,Uniform,As per School Uniform Colour,"School uniform - shirt and pants/skirt",Cotton,School Shoes
+College Student,Semi-Formal,Neutral/Any comfortable colour,"Shirt or T-shirt with jeans/formal pants",Cotton or Denim,Sneakers or Sandals
+Training/Coaching Class,Casual,Any comfortable colour,"T-shirt with jeans or track pants",Cotton,Sneakers

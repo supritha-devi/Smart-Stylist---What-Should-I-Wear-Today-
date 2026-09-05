@@ -1,0 +1,42 @@
+District,Area,Season,Day,Temperature,Rainfall,Humidity,Weather
+Coimbatore,Gandhipuram,Summer,Monday,35,0,45,Sunny
+Coimbatore,Gandhipuram,Summer,Tuesday,36,0,42,Sunny
+Coimbatore,Gandhipuram,Monsoon,Wednesday,28,18,78,Rainy
+Coimbatore,Gandhipuram,Monsoon,Thursday,27,22,82,Rainy
+Coimbatore,Gandhipuram,Winter,Friday,24,2,60,Cloudy
+Coimbatore,Gandhipuram,Winter,Saturday,23,0,55,Sunny
+Coimbatore,Gandhipuram,Winter,Sunday,25,0,58,Sunny
+Coimbatore,Mettupalayam,Summer,Monday,36,0,50,Sunny
+Coimbatore,Mettupalayam,Summer,Tuesday,37,0,48,Sunny
+Coimbatore,Mettupalayam,Monsoon,Wednesday,29,15,80,Rainy
+Coimbatore,Mettupalayam,Monsoon,Thursday,28,20,83,Rainy
+Coimbatore,Mettupalayam,Winter,Friday,26,1,65,Cloudy
+Coimbatore,Mettupalayam,Winter,Saturday,25,0,60,Sunny
+Coimbatore,Mettupalayam,Winter,Sunday,26,0,62,Sunny
+Coimbatore,Ooty,Summer,Monday,20,5,70,Cloudy
+Coimbatore,Ooty,Summer,Tuesday,21,3,68,Partly Cloudy
+Coimbatore,Ooty,Monsoon,Wednesday,15,30,90,Rainy
+Coimbatore,Ooty,Monsoon,Thursday,14,35,92,Rainy
+Coimbatore,Ooty,Winter,Friday,11,2,75,Foggy
+Coimbatore,Ooty,Winter,Saturday,10,0,78,Foggy
+Coimbatore,Ooty,Winter,Sunday,12,0,74,Cloudy
+Coimbatore,Coonoor,Summer,Monday,22,4,68,Cloudy
+Coimbatore,Coonoor,Winter,Friday,13,1,76,Foggy
+Tirupur,Tirupur Town,Summer,Monday,35,0,44,Sunny
+Tirupur,Tirupur Town,Summer,Tuesday,36,0,40,Sunny
+Tirupur,Tirupur Town,Monsoon,Wednesday,28,20,80,Rainy
+Tirupur,Tirupur Town,Monsoon,Thursday,27,24,84,Rainy
+Tirupur,Tirupur Town,Winter,Friday,25,1,58,Cloudy
+Tirupur,Tirupur Town,Winter,Saturday,24,0,55,Sunny
+Tirupur,Tirupur Town,Winter,Sunday,26,0,56,Sunny
+Tirupur,Avinashi,Summer,Monday,35,0,46,Sunny
+Tirupur,Palladam,Summer,Tuesday,36,0,43,Sunny
+Erode,Erode Town,Summer,Monday,37,0,40,Sunny
+Erode,Erode Town,Summer,Tuesday,38,0,38,Sunny
+Erode,Erode Town,Monsoon,Wednesday,29,16,76,Rainy
+Erode,Erode Town,Monsoon,Thursday,28,19,79,Rainy
+Erode,Erode Town,Winter,Friday,26,1,55,Cloudy
+Erode,Erode Town,Winter,Saturday,25,0,52,Sunny
+Erode,Erode Town,Winter,Sunday,27,0,54,Sunny
+Erode,Perundurai,Summer,Monday,37,0,42,Sunny
+Erode,Bhavani,Summer,Tuesday,36,0,44,Sunny

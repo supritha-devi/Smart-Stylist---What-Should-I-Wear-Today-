@@ -1,0 +1,12 @@
+Role,Formality,PreferredColour,ClothingType,Material,Footwear
+IT Employee,Business Casual,Neutral/Any,"Shirt or T-shirt with formal/casual pants",Cotton blend,Sneakers or Formal Shoes
+Finance,Formal,Neutral/Dark,"Formal shirt with blazer and formal pants",Cotton or Wool blend,Formal Shoes
+Government Office,Formal,Neutral/Muted,"Formal shirt with formal pants or Saree",Cotton or Linen,Formal Shoes or Sandals
+Teacher/Professor,Formal,Neutral/Modest,"Shirt with formal pants or Saree/Salwar",Cotton,Formal Shoes or Sandals
+Doctor,Formal,White/Neutral,"Formal shirt with pants, worn under a white coat",Cotton,Formal Shoes or Clogs
+Engineer,Business Casual,Neutral/Any,"Shirt with formal pants, safety gear if on-site",Cotton or Durable blend,Formal Shoes or Boots
+Airhostess,Formal,Airline Uniform Colours,"Uniform as per airline dress code",Polyester blend,Formal Shoes or Heels
+Pilot,Formal,Airline Uniform Colours,"Uniform as per airline dress code",Polyester blend,Formal Shoes
+Driver,Casual,Neutral/Dark,"Shirt with pants",Cotton,Sneakers or Sandals
+Actor/Actress/Celebrity,Varies by Event,Trendy/Statement,"Depends on event - styled outfit",Varies,Varies - Heels or Designer Footwear
+Bank Employee,Formal,Neutral/Muted,"Formal shirt with blazer and formal pants or Saree",Cotton or Wool blend,Formal Shoes

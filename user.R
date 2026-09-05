@@ -1,0 +1,1 @@
+Username,Password,Gender,District,Area,CategoryType,RoleOrStudentType
