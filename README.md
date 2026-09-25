@@ -136,6 +136,7 @@ Wardrobe Item       Recommendation
        Recommendation History
 
 On Fri, 25 Sep, 2026, 11:06 am SUPRITHADEVI M 25AD102, <25ad102@drngpit.ac.in> wrote:
+
 👗 Smart Stylist — "What Should I Wear Today"
 An R Shiny web application that recommends outfits based on weather, occasion, and — most importantly — your own wardrobe.
 
